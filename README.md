@@ -5,14 +5,14 @@
 Me chamo Emmanuel, tenho 30 anos e sou natural do Piauí. Morei durante 7 anos na argentina. Ao longo da minha jornada, passei por diversas áreas de estudo e trabalho. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e Direito na CESVALE. Sou apaixonado por tecnologia e jogos e compartilho algumas gameplays no meu canal do YouTube. "[Emmanuel Oton](https://www.youtube.com/@nuelxy)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@nuelxy?sub_confirmation=1">
+    <a href="https://www.youtube.com/@nuelzith?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@nuelxy">
+    <a href="https://www.youtube.com/@nuelzith">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
