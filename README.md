@@ -2,7 +2,7 @@
 
 **`Publicitário e Analista de Sistemas`**
 
-Me chamo Emmanuel, tenho 30 anos e sou natural do Piauí. Morei durante 7 anos na argentina. Ao longo da minha jornada, passei por diversas áreas de estudo e trabalho. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e Direito na CESVALE. Sou apaixonado por tecnologia e jogos e compartilho algumas gameplays no meu canal do YouTube. "[Emmanuel Oton](https://www.youtube.com/@nuelxy)", e também através do Instagram, com o perfil chamado "Nuelxy(https://www.instagram.com/nuelxy/)".
+Me chamo Emmanuel, tenho 30 anos e sou natural do Piauí. Morei durante 7 anos na argentina. Ao longo da minha jornada, passei por diversas áreas de estudo e trabalho. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e Direito na CESVALE. Sou apaixonado por tecnologia e jogos e compartilho algumas gameplays no meu canal do YouTube. "[Emmanuel Oton](https://www.youtube.com/@nuelxy)", e também através do Instagram, com o perfil chamado "[Nuelxy](https://www.instagram.com/nuelxy/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@nuelzith?sub_confirmation=1">
